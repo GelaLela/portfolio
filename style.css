@@ -60,8 +60,6 @@ nav a {
     margin-left: 2rem;
     transition: color 0.3s ease-in-out;
 }
-
-nav a.active,
 nav a:hover {
     color: #b74b4b;
     border-bottom: 3px solid #b74b4b;
